@@ -41,21 +41,21 @@ Foster App is revolutionizing the field of foster care management by empowering 
 ### Requirements
 
 - Node.js (v14 or higher)
-- Foster-Sales-Site server running
+- FosterApp-Frontend server running
 
 ### Installation Steps
 
 1. Clone the repository:
 
    ```shell
-   git clone  https://github.com/MuhammadWaqas-W/Foster-Sales-Site.git
+   git clone  https://github.com/MuhammadWaqas-W/FosterApp-Frontend.git
 
    ```
 
 2. Install dependencies:
 
    ```shell
-   cd Foster-Sales-Site
+   cd FosterApp-Frontend
    npm install
 
    ```
@@ -94,7 +94,7 @@ Foster App is revolutionizing the field of foster care management by empowering 
 
 ## Contact
 
-If you have any questions or suggestions regarding Foster-Sales-Site, please feel free to reach out to us:
+If you have any questions or suggestions regarding FosterApp-Frontend, please feel free to reach out to us:
 
 - Email: [contact@fosterapp.com](mailto:contact@fosterapp.com)
 - Website: [https://main.dmevypfslf3gb.amplifyapp.com/](https://main.dmevypfslf3gb.amplifyapp.com/)
